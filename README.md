@@ -1,1 +1,1 @@
-# day-two
+# Day Two
